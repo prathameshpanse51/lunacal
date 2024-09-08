@@ -105,8 +105,6 @@ I’m available at other times and would love to set up a meeting that fits your
     document.getElementById("toast-default").style.display = "None";
   };
 
-  console.log(error);
-
   return (
     <>
       <div
